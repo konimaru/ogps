@@ -1,2 +1,2 @@
 # ogps
-9600 baud and ustream callback tracing
+variable baud range (4800..115200) and relaxed sentence filter
